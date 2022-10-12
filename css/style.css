@@ -1,0 +1,10 @@
+.jumbotron{
+    background-image: url ("https://picsum.photos/200;")
+    background-size: cover;
+    color: 
+    font-family: 'Lobster', cursive;
+    height: 50rem
+}
+h1 {
+padding: 15% 0%
+} 
